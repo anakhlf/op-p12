@@ -35,7 +35,7 @@
     }
 }
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 767.98px) {
     #image {
         padding: 0px; 
         text-align: center;
@@ -62,7 +62,7 @@
 
 }
 
-@media only screen and (max-width: 480px) {
+@media (max-width: 480px) {
     #image {
         gap: 7px;
         height:100vh;

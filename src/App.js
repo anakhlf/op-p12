@@ -16,12 +16,7 @@ function App() {
 }
 
 export default App;
-
-//revoir :
-
-//image : trouver le texte + changer image
-//revoir responsive 
-        
+    
 
 
 
